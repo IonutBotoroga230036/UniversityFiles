@@ -29,7 +29,7 @@ def calculate(num1, num2, operation):
 
 
 
-st.title('Slider')
+st.title('Slider Number')
 number = st.slider('Pick a number', 0, 100)
 st.write('You selected:', number)
 
